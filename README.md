@@ -6,3 +6,6 @@ The tasks of the code include:
 1. Get all images from **image cache folder**.
 2. Sort in QList by last modified time.
 3. Perform image operations.
+
+Required when completing the assignment:
+1. Compliance with [Qt Coding Style](https://wiki.qt.io/Qt_Coding_Style).

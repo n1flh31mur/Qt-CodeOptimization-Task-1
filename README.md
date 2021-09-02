@@ -9,3 +9,4 @@ The tasks of the code include:
 
 Required when completing the assignment:
 1. Compliance with [Qt Coding Style](https://wiki.qt.io/Qt_Coding_Style).
+2. Download [image data](https://drive.google.com/file/d/1odsM9ab8Sg27K3qDkhXX1YnJLucN9y4P/view?usp=sharing).

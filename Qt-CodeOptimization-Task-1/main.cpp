@@ -12,7 +12,7 @@
 #define mirroredImagesCachePath "mirroredImages/"
 #define alphaImagesCachePath "alphaImages/"
 
-/// QList</* Something went wrong here */> imageStore;
+/// QList</** NOTE: Something went wrong here and u have to find solution to fix this. */> imageStore;
 
 int main(int argc, char* argv[])
 {

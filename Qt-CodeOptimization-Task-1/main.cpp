@@ -27,21 +27,21 @@ int main(int argc, char* argv[])
     QElapsedTimer timer;
     timer.start();
 
-    /** Here u have to find all images in folder */
+    /** NOTE: Here u have to find all images in folder */
 
-    /** Sort them by date */
+    /** TODO: Sort them by date */
 
     //    for (int i = 0; i < /** image count here */; ++i) {
-    //        QImage image(/** image*/.first);
+    //        QImage image(/** image file name */);
 
     //        image.convertTo(QImage::Format_RGBX64, Qt::ColorOnly);
     //        image = image.mirrored(true, false);
-    //        image.save(mirroredImagesCachePath + QCryptographicHash::hash(/** image*/.toUtf8(), QCryptographicHash::Md5).toHex(), "PPM");
+    //        image.save(mirroredImagesCachePath + QCryptographicHash::hash(/** image file name */, QCryptographicHash::Md5).toHex(), "PPM");
 
-    //        image.convertToFormat(QImage::Format_RGB666).save(alphaImagesCachePath + QCryptographicHash::hash(/** image*/.toUtf8(), QCryptographicHash::Md5).toHex(), "PPM");
+    //        image.convertToFormat(QImage::Format_RGB666).save(alphaImagesCachePath + QCryptographicHash::hash(/** image file name */, QCryptographicHash::Md5).toHex(), "PPM");
 
     //        image.convertTo(QImage::Format_Mono, Qt::MonoOnly);
-    //        image.save(monoImagesCachePath + QCryptographicHash::hash(/** image*/.toUtf8(), QCryptographicHash::Md5).toHex(), "PPM");
+    //        image.save(monoImagesCachePath + QCryptographicHash::hash(/** image file name */, QCryptographicHash::Md5).toHex(), "PPM");
     //    }
 
     /* See how much operation took */

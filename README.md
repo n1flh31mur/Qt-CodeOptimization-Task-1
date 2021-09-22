@@ -12,3 +12,6 @@ The tasks of the code include:
 Required when completing the assignment:
 1. Compliance with [Qt Coding Style](https://wiki.qt.io/Qt_Coding_Style).
 2. Download [image data](https://drive.google.com/file/d/1odsM9ab8Sg27K3qDkhXX1YnJLucN9y4P/view?usp=sharing) and unzip all images inside **image folder** of your debug folder. 
+
+To complete this task, You have to use threads, very usefull will be to use [QtConcurrent](https://doc.qt.io/qt-5/qtconcurrent-index.html) lambda.
+You have to complete test for max 150ms.
